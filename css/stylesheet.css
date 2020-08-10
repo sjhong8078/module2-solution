@@ -1,4 +1,4 @@
-!**--Base Styles!
+/**--Base Styles!
 * {
   box-sizing: border-box;
 }
@@ -170,14 +170,14 @@ p {
 }
 
 .chicken {
-    background: pink;
+    background: #fc5a8d ;
 }
 .beef{
-    color: white;
-    background: red;
+    color: te#8B0000;
+    background: rgb(138, 138, 138);
 }
 .sushi{
-    background: yellow;
+    background: rgb(204, 204, 102);
 }
 
 .header {
