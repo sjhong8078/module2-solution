@@ -1,4 +1,4 @@
-!--Base Styles!
+!**--Base Styles!
 * {
   box-sizing: border-box;
 }
@@ -27,7 +27,7 @@ p {
     padding: 0;
     margin: 0;
 }
-/* Simple Responsive Framework. */
+/*** Simple Responsive Framework ***/
 .row {
   width: 100%;
 }
